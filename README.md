@@ -3,6 +3,7 @@
 - [Clojure](#clojure)
 - [VIM](#vim)
 - [Unix](#unix)
+- [Docker](#docker)
 
 
 ## Clojure
@@ -54,7 +55,7 @@ end
 
 Suppose you selected something but need to select more lines on the beggining, maybe you would cancel the selection and start all over, however, you coould jump to the other end of the select and use the motion keys to increase the selected area.
 
-<select-text> `o`
+`<select-text>` + `o`
 
 ## Unix
 
@@ -62,3 +63,27 @@ Suppose you selected something but need to select more lines on the beggining, m
 
 `nl`
 
+
+## Docker
+
+### Create volume and filter it
+
+```bash
+# create volume
+docker volume create --name volumeName
+# using it
+docker run -it -v volumeOnDocker:/volumeName 23894u32hued /bin/bash
+
+# filter volume by its name
+docker volume ls --filter "name=volumeName" # "volumeName" here can actually be a valid substring, e.g. "vol", "umeNa", etc.
+```
+
+### Access host volume in MacOS with Docker Desktop
+
+Since Docker Desktop runs a VM with docker in it, you will need to enter the VM and then access the mount point, which can be found by `docker volume inspect <volume-name>` 
+
+```bash
+screen ~/Library/Containers/com.docker.docker/Data/vms/0/tty
+# and now go to the mount point
+cd /var/lib/docker/volumes/<volume-name>/_data 
+```
