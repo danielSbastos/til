@@ -4,6 +4,7 @@
 - [VIM](#vim)
 - [Unix](#unix)
 - [Docker](#docker)
+- [PostgreSQL](#postgresql)
 
 
 ## Clojure
@@ -86,4 +87,25 @@ Since Docker Desktop runs a VM with docker in it, you will need to enter the VM 
 screen ~/Library/Containers/com.docker.docker/Data/vms/0/tty
 # and now go to the mount point
 cd /var/lib/docker/volumes/<volume-name>/_data 
+```
+
+## PostgreSQL
+
+### Using schemas
+
+This is simple but it was new to me :)
+
+*List Schemas*
+```psql
+\dn
+```
+
+*List schemas tables*
+```
+\dt schema-name.
+```
+
+*Access table under schema*
+```psql
+SELECT field FROM schema-name.table-name;
 ```
