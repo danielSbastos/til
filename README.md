@@ -10,6 +10,7 @@
 ## Clojure
 
 - [`comp` function ](https://github.com/danielSbastos/til/blob/master/clojure/comp-function.md)
+- [Memoization for optimization](https://github.com/danielSbastos/til/blob/master/clojure/memoization-for-optimization.md)
 
 ## Vim
 

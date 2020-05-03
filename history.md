@@ -1,3 +1,9 @@
+### :calendar: 03/05/2020
+
+- [**(clojure)** Memoization for optimization](https://github.com/danielSbastos/til/blob/master/clojure/memoization-for-optimization.md)
+
+----------------------------
+
 ### :calendar: 02/05/2020
 
 - [**(unix)** Readline vi mode](https://github.com/danielSbastos/til/blob/master/unix/readline-vi-mode.md)
