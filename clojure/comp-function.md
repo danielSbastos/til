@@ -13,3 +13,13 @@ user=> ((comp f g) 1)
 ```
 
 [source](https://clojuredocs.org/clojure.core/comp)
+
+### Handmade
+
+```clojure
+(defn my-comp
+  ([] identity)
+  ([f] f)
+  ([f g] (fn [& args] (f (apply g args))))
+  ([f g & args] (reduce my-comp (list* f g args))))
+```
