@@ -1,9 +1,3 @@
-### :calendar: 04/05/2020
-
-- [**(docker)** Create volume and filter it](https://github.com/danielSbastos/til/blob/master/docker/create-and-filter-volume.md)
-
-----------------------------
-
 ### :calendar: 02/05/2020
 
 - [**(unix)** Readline vi mode](https://github.com/danielSbastos/til/blob/master/unix/readline-vi-mode.md)
