@@ -10,11 +10,11 @@ do
     category=$(echo $file | cut -d "/" -f1)
     description=$(head -n1 $file | sed -e 's/## //')
     url="https://github.com/danielSbastos/til/blob/master/${file}"
-    echo "- [(${category}) ${description}](${url})" >> /tmp/updated-history.md
+    echo "- [**(${category})** ${description}](${url})" >> /tmp/updated-history.md
 done
 
 echo -e "\n----------------------------\n" >> /tmp/updated-history.md
 
-touch HISTORY.md
-cat HISTORY.md >> /tmp/updated-history.md
-mv /tmp/updated-history.md HISTORY.md
+touch history.md
+cat history.md >> /tmp/updated-history.md
+mv /tmp/updated-history.md history.md
