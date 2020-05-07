@@ -35,4 +35,4 @@
 ## Emacs
 
 - [Load all files in cider](https://github.com/danielSbastos/til/blob/master/emacs/cider-load-add-files.md)
-
+- [Ledger mode show balance](https://github.com/danielSbastos/til/blob/master/emacs/ledger-mode-show-balance.md)

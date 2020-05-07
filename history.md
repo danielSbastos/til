@@ -1,3 +1,9 @@
+### :calendar: 05/05/2020
+
+- [**(emacs)** Ledger mode show balance](https://github.com/danielSbastos/til/blob/master/emacs/ledger-mode-show-balance.md)
+
+----------------------------
+
 ### :calendar: 03/05/2020
 
 - [**(clojure)** Memoization for optimization](https://github.com/danielSbastos/til/blob/master/clojure/memoization-for-optimization.md)
