@@ -12,6 +12,7 @@
 
 - [`comp` function ](https://github.com/danielSbastos/til/blob/master/clojure/comp-function.md)
 - [Memoization for optimization](https://github.com/danielSbastos/til/blob/master/clojure/memoization-for-optimization.md)
+- [Reduce with overlapping partitions](https://github.com/danielSbastos/til/blob/master/clojure/reduce-with-overlapping-partitions.md)
 
 ## Vim
 

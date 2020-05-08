@@ -1,3 +1,9 @@
+### :calendar: 08/05/2020
+
+- [**(clojure)** Reduce with overlapping partitions](https://github.com/danielSbastos/til/blob/master/clojure/reduce-with-overlapping-partitions.md)
+
+----------------------------
+
 ### :calendar: 07/05/2020
 
 - [**(ledger-cli)** Different currencies with fluctuating exchange rates](https://github.com/danielSbastos/til/blob/master/ledger-cli/different-currencies.md)
