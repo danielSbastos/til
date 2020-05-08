@@ -6,6 +6,7 @@
 - [Docker](#docker)
 - [PostgreSQL](#postgresql)
 - [Emacs](#emacs)
+- [Ledger-cli](#ledger-cli)
 
 ## Clojure
 
@@ -36,3 +37,6 @@
 
 - [Load all files in cider](https://github.com/danielSbastos/til/blob/master/emacs/cider-load-add-files.md)
 - [Ledger mode show balance](https://github.com/danielSbastos/til/blob/master/emacs/ledger-mode-show-balance.md)
+
+## Ledger-cli
+- [Different currencies with fluctuating exchange rates](https://github.com/danielSbastos/til/blob/master/ledger-cli/different-currencies.md)

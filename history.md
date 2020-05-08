@@ -1,3 +1,9 @@
+### :calendar: 07/05/2020
+
+- [**(ledger-cli)** Different currencies with fluctuating exchange rates](https://github.com/danielSbastos/til/blob/master/ledger-cli/different-currencies.md)
+
+----------------------------
+
 ### :calendar: 05/05/2020
 
 - [**(emacs)** Ledger mode show balance](https://github.com/danielSbastos/til/blob/master/emacs/ledger-mode-show-balance.md)
