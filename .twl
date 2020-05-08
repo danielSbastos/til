@@ -1,0 +1,14 @@
+./clojure/comp-function.md
+./clojure/memoization-for-optimization.md
+./clojure/reduce-with-overlapping-partitions.md
+./docker/create-and-filter-volume.md
+./docker/host-volume-macos.md
+./emacs/cider-load-add-files.md
+./emacs/ledger-mode-show-balance.md
+./ledger-cli/different-currencies.md
+./postgresql/using-schemas.md
+./unix/line-number.md
+./unix/readline-vi-mode.md
+./vim/block-mode.md 
+./vim/filter-command.md 
+./vim/jump-end-visual-select.md
