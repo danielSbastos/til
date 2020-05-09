@@ -1,51 +1,43 @@
 [
   {
-    "date": "08/05/2020",
-    "links": [
+    "08/05/2020": [
       "[**(clojure)** Reduce with overlapping partitions](https://raw.githubusercontent.com/danielSbastos/til/master/clojure/reduce-with-overlapping-partitions.md)"
     ]
   },
   {
-    "date": "07/05/2020",
-    "links": [
+    "07/05/2020": [
       "[**(ledger-cli)** Different currencies with fluctuating exchange rates](https://raw.githubusercontent.com/danielSbastos/til/master/ledger-cli/different-currencies.md)"
     ]
   },
   {
-    "date": "05/05/2020",
-    "links": [
+    "05/05/2020": [
       "[**(emacs)** Ledger mode show balance](https://raw.githubusercontent.com/danielSbastos/til/master/emacs/ledger-mode-show-balance.md)"
     ]
   },
   {
-    "date": "03/05/2020",
-    "links": [
+    "03/05/2020": [
       "[**(clojure)** Memoization for optimization](https://raw.githubusercontent.com/danielSbastos/til/master/clojure/memoization-for-optimization.md)"
     ]
   },
   {
-    "date": "02/05/2020",
-    "links": [
+    "02/05/2020": [
       "[**(unix)** Readline vi mode](https://raw.githubusercontent.com/danielSbastos/til/master/unix/readline-vi-mode.md)"
     ]
   },
   {
-    "date": "01/05/2020",
-    "links": [
+    "01/05/2020": [
       "[**(emacs)** Load all files in Cider](https://raw.githubusercontent.com/danielSbastos/til/master/emacs/cider-load-add-files.md)"
     ]
   },
   {
-    "date": "29/04/2020",
-    "links": [
+    "29/04/2020": [
       "[**(docker)** Create volume and filter it](https://raw.githubusercontent.com/danielSbastos/til/master/docker/create-and-filter-volume.md)",
       "[**(docker)** Access host volume in MacOS with Docker Desktop](https://raw.githubusercontent.com/danielSbastos/til/master/docker/host-volume-macos.md)",
       "[**(postgresql)** Using schemas](https://raw.githubusercontent.com/danielSbastos/til/master/postgresql/using-schemas.md)"
     ]
   },
   {
-    "date": "27/04/2020",
-    "links": [
+    "27/04/2020": [
       "[**(clojure)** `comp` function](https://raw.githubusercontent.com/danielSbastos/til/master/clojure/comp-function.md)",
       "[**(vim)** Multicursor in block mode](https://raw.githubusercontent.com/danielSbastos/til/master/vim/block-mode.md)",
       "[**(vim)** Filter command](https://raw.githubusercontent.com/danielSbastos/til/master/vim/filter-command.md)",
