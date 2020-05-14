@@ -7,6 +7,7 @@
 - [PostgreSQL](#postgresql)
 - [Emacs](#emacs)
 - [Ledger-cli](#ledger-cli)
+- [Git](#git)
 
 ## Clojure
 
@@ -41,3 +42,7 @@
 
 ## Ledger-cli
 - [Different currencies with fluctuating exchange rates](https://github.com/danielSbastos/til/blob/master/ledger-cli/different-currencies.md)
+
+## Git
+
+- [Instaweb for GUI](https://github.com/danielSbastos/til/blob/master/git/instabweb-for-gui.md)
