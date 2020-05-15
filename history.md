@@ -1,3 +1,9 @@
+### :calendar: 15/05/2020
+
+- [**(emacs)** Replace and delete surrounding parenthesis](https://github.com/danielSbastos/til/blob/master/emacs/delete-and-replace-surrounding-parenthesis.md)
+
+----------------------------
+
 ### :calendar: 14/05/2020
 
 - [**(git)** Instaweb for GUI](https://github.com/danielSbastos/til/blob/master/git/instabweb-for-gui.md)
