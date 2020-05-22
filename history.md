@@ -1,3 +1,9 @@
+### :calendar: 17/05/2020
+
+- [**(postgresql)** Building indexes concurrently](https://github.com/danielSbastos/til/blob/master/postgresql/building-indexes-concurrently.md)
+
+----------------------------
+
 ### :calendar: 15/05/2020
 
 - [**(emacs)** Replace and delete surrounding parenthesis](https://github.com/danielSbastos/til/blob/master/emacs/delete-and-replace-surrounding-parenthesis.md)

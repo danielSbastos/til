@@ -34,6 +34,7 @@
 ## PostgreSQL
 
 - [Using schemas](https://github.com/danielSbastos/til/blob/master/postgresql/using-schemas.md)
+- [Building indexes concurrently](https://github.com/danielSbastos/til/blob/master/postgresql/building-indexes-concurrently.md)
 
 ## Emacs
 
