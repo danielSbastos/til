@@ -6,9 +6,9 @@
 
 The Reader transforms text into Clojure data structures. It's like a translator between Unicode characters and Clojure lists, vectors, maps, and other data structures.
 
-It produces the AST, which is just composed of Clojure's structures, which differs from the non-list languages. Given this, Clojure is homoiconic, because it represents ASTs using lists, which in practical terms means that the user can represent data structures that they are used to manipulating and the evaluator consumes those data structures.
+It produces the AST, which is just composed of Clojure's structures, which differs from the non-lisp languages. Given this, Clojure is homoiconic, because it represents ASTs using lists, which in practical terms means that the user can represent data structures that they are used to manipulating and the evaluator consumes those data structures.
 
-Text `(str "my name is " "Daniel")` is just a sequence of Unicode characters, but it's meant to represent a combination of Clojure's data structures. This textual representation is called a `reader-form`
+The code `(str "my name is " "Daniel")` is just a sequence of Unicode characters, but it's meant to represent a combination of Clojure's data structures. This textual representation is called a `reader-form`
 
 You can read it (but not evaluate it!) with the function `read-string`
 
