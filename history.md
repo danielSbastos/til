@@ -1,3 +1,9 @@
+### :calendar: 22/05/2020
+
+- [**(clojure)** Evaluation process](https://github.com/danielSbastos/til/blob/master/clojure/evaluation-history.md)
+
+----------------------------
+
 ### :calendar: 17/05/2020
 
 - [**(postgresql)** Building indexes concurrently](https://github.com/danielSbastos/til/blob/master/postgresql/building-indexes-concurrently.md)
