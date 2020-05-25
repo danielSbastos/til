@@ -6,5 +6,3 @@
 
 fdfd
 sdfdf
-
-## Clojure - daniel
