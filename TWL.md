@@ -1,6 +1,16 @@
 # Bla
 
-## Docker - bla bla bla
+## Clojure - comp function
+
+dfdsfdsf
+fsdfdsf
+dfdsfsdf
+
+'```dfdf
+dfg`1
+`1`
+
+## Daniel - bla bla bla
 
 'sddsfd
 
