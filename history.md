@@ -1,3 +1,9 @@
+### :calendar: 29/05/2020
+
+- [**(clojure)** File watching with Java WatchService](https://github.com/danielSbastos/til/blob/master/clojure/File-Watching-with-Java-WatchService.md)
+
+----------------------------
+
 ### :calendar: 22/05/2020
 
 - [**(clojure)** Evaluation process](https://github.com/danielSbastos/til/blob/master/clojure/evaluation-history.md)

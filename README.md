@@ -15,6 +15,7 @@
 - [Memoization for optimization](https://github.com/danielSbastos/til/blob/master/clojure/memoization-for-optimization.md)
 - [Reduce with overlapping partitions](https://github.com/danielSbastos/til/blob/master/clojure/reduce-with-overlapping-partitions.md)
 - [Evaluation process](https://github.com/danielSbastos/til/blob/master/clojure/evaluation-process.md)
+- [File watching with Java WatchService](https://github.com/danielSbastos/til/blob/master/clojure/File-Watching-with-Java-WatchService.md)
 
 ## Vim
 
