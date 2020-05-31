@@ -8,6 +8,7 @@
 - [Emacs](#emacs)
 - [Ledger-cli](#ledger-cli)
 - [Git](#git)
+- [Data structures](#data structures)
 
 ## Clojure
 
@@ -50,3 +51,7 @@
 ## Git
 
 - [Instaweb for GUI](https://github.com/danielSbastos/til/blob/master/git/instabweb-for-gui.md)
+
+## Data structures
+
+- [Infix to prefix notation using stacks](https://github.com/danielSbastos/til/blob/master/data-structures/Infix-to-prefix-using-stacks.md)

@@ -1,3 +1,9 @@
+### :calendar: 31/05/2020
+
+- [**(data-structures)** Infix to prefix notation using stacks](https://github.com/danielSbastos/til/blob/master/data-structures/Infix-to-prefix-using-stacks.md)
+
+----------------------------
+
 ### :calendar: 29/05/2020
 
 - [**(clojure)** File watching with Java WatchService](https://github.com/danielSbastos/til/blob/master/clojure/File-Watching-with-Java-WatchService.md)
