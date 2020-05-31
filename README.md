@@ -8,7 +8,7 @@
 - [Emacs](#emacs)
 - [Ledger-cli](#ledger-cli)
 - [Git](#git)
-- [Data structures](#data structures)
+- [Data structures](#data-structures)
 
 ## Clojure
 
