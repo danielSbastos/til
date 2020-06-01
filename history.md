@@ -1,5 +1,6 @@
 ### :calendar: 31/05/2020
 
+- [**(clojure)** Futures, delays and promises](https://github.com/danielSbastos/til/blob/master/clojure/Futures,-delays-and-promises.md)
 - [**(data-structures)** Infix to prefix notation using stacks](https://github.com/danielSbastos/til/blob/master/data-structures/Infix-to-prefix-using-stacks.md)
 
 ----------------------------
