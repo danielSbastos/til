@@ -1,4 +1,4 @@
-## Map version of reduce-kv (with @biocarl)
+## Map version of reduce-kv (with [@biocarl](https://github.com/biocarl))
 
 Clojure has a `reduce-kv`, but no `map-kv`.
 
