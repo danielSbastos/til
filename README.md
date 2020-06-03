@@ -18,7 +18,7 @@
 - [Evaluation process](https://github.com/danielSbastos/til/blob/master/clojure/evaluation-process.md)
 - [File watching with Java WatchService](https://github.com/danielSbastos/til/blob/master/clojure/File-Watching-with-Java-WatchService.md)
 - [Futures, delays and promises](https://github.com/danielSbastos/til/blob/master/clojure/Futures,-delays-and-promises.md)
-
+- [ Map version of reduce-kv (with @biocarl)](https://github.com/danielSbastos/til/blob/master/clojure/Map-version-of-reduce-kv--with-@biocarl.md)
 
 ## Vim
 

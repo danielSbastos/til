@@ -1,3 +1,9 @@
+### :calendar: 03/06/2020
+
+- [**(clojure)** Map version of reduce-kv (with @biocarl)](https://github.com/danielSbastos/til/blob/master/clojure/Map-version-of-reduce-kv--with-@biocarl.md)
+
+----------------------------
+
 ### :calendar: 31/05/2020
 
 - [**(clojure)** Futures, delays and promises](https://github.com/danielSbastos/til/blob/master/clojure/Futures,-delays-and-promises.md)
