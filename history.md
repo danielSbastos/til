@@ -1,5 +1,6 @@
 ### :calendar: 03/06/2020
 
+- [**(vim)** Copy current file path](https://github.com/danielSbastos/til/blob/master/vim/copy-current-file-path.md)
 - [**(clojure)** Map version of reduce-kv (with @biocarl)](https://github.com/danielSbastos/til/blob/master/clojure/Map-version-of-reduce-kv--with-@biocarl.md)
 
 ----------------------------

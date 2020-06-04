@@ -25,6 +25,7 @@
 - [block mode](https://github.com/danielSbastos/til/blob/master/vim/block-mode.md)
 - [filter command](https://github.com/danielSbastos/til/blob/master/vim/filter-command.md)
 - [Jump to other end of visual select](https://github.com/danielSbastos/til/blob/master/vim/jump-end-visual-select.md)
+- [Copy current file path](https://github.com/danielSbastos/til/blob/master/vim/copy-current-file-path.md)
 
 ## Unix
 
