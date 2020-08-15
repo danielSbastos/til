@@ -1,3 +1,9 @@
+### :calendar: 15/08/2020
+
+- [**(emacs)** Add missing lib in Clojure with Cider](https://github.com/danielSbastos/til/blob/master/emacs/cider-import-missing-clojure-libspec.md)
+
+----------------------------
+
 ### :calendar: 03/06/2020
 
 - [**(vim)** Copy current file path](https://github.com/danielSbastos/til/blob/master/vim/copy-current-file-path.md)
