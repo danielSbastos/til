@@ -1,3 +1,9 @@
+### :calendar: 13/05/2021
+
+- [**(emacs)** Spacemacs Copy File Path](https://github.com/danielSbastos/til/blob/master/emacs/spacemacs-copy-file-path.md)
+
+----------------------------
+
 ### :calendar: 15/08/2020
 
 - [**(emacs)** Add missing lib in Clojure with Cider](https://github.com/danielSbastos/til/blob/master/emacs/cider-import-missing-clojure-libspec.md)
