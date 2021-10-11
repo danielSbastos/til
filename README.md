@@ -1,3 +1,9 @@
+### :calendar: 10/10/2021
+
+- [**(python)** Ipython save and edit history to file ](https://github.com/danielSbastos/til/blob/master/python/ipython-save-to-file.md)
+
+----------------------------
+
 ### :calendar: 13/05/2021
 
 - [**(emacs)** Spacemacs Copy File Path](https://github.com/danielSbastos/til/blob/master/emacs/spacemacs-copy-file-path.md)
