@@ -1,3 +1,9 @@
+### :calendar: 08/01/2022
+
+- [**(python)** Change where python deps are installed](https://github.com/danielSbastos/til/blob/master/python/python-change-pip-storage-location.md)
+
+----------------------------
+
 ### :calendar: 10/10/2021
 
 - [**(python)** Ipython save and edit history to file ](https://github.com/danielSbastos/til/blob/master/python/ipython-save-to-file.md)
